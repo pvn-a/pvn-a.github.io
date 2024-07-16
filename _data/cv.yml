@@ -1,97 +1,145 @@
-- title: General Information
+- title: General
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Pavan A
     - name: Languages
-      value: English, German
+      value: English, Hindi, Kannada
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Computer Science
+      institution: University of Colorado at Boulder
+      year: 2024-2026
+    - title: Bachelor of Technology in Computer Science Engineering
+      institution: PES University, Bangalore, India
+      year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Specilization in Machine Intelligence and Data Science
+        - Research Intern/Assistant at the Center for Data Science & Machine Learning and Center for Cloud Computing & Big Data
+        - 6x M.R.D Merit scholarship awardee for staying in the top 20% of the graduating class
 
-- title: Experience
+
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Member of Technical Staff (Backend Engineer)
+      institution: Vymo
+      year: Jul '22 - Jul '24
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Implemented the Data Dissemination Platform (DDP) to control data in-out flows and delivered numerous projects that reduced error rates by 89% compared to previous methods, which helped secure multi-million dollar clients.
+        - Designed, built, and scaled the critical data exporter service to efficiently help 150k+ bancassurance managers download huge volumes of data from the web directly.
+        - Increased the data ingestor’s functionality manyfold by revamping the service and implementing several new features along with code, query, and resource optimizations.
+        - Solely upgraded Springboot, Gradle, Mongo, and Kafka libraries for all backed Java services.
+        - Single-handedly resolved 50+ security vulnerabilities in backed services.
+        - Discharged on-call duties for 2+ years and reduced turnaround resolution time for customer issues greatly by 82.5%.
+    - title: Software Engineering Intern (Backend) 
+      institution: Vymo
+      year: Jan - Jun 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Implemented a centralized email service in Java that streamlined management and reduced maintenance costs.
+        - Designed and implemented API timeouts for the data ingestion service in NodeJS which boosted throughput by 64%.
+        - Productized querying logic for clients and introduced new Elasticsearch query utilities across two microservices..
+        - Introduced alerting and monitoring mechanisms in Sensu, Grafana and New Relic for the DDP services.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research and Development Intern
+      institution: Samsung R&D Institute
+      year: May - Jul 2021
+      description:
+        - Spearheaded the on-device AI team’s data engineering division in researching data-centric AI approaches that improved text, icon, and image detection accuracy in mobile screenshots by 30%
+        - Built a Python tool to generate synthetic data that further improved Korean text detection in screenshots by multifold.
+        - Streamlined tasks like data collection, preprocessing, data segmentation and warehousing by building a distributed application using Python and shell scripts, pillow, OpenCV, and Tensorflow.
+    - title: Applied Research Intern
+      institution: Center for Cloud Computing and Big Data, PES University
+      year: May - Jun 2020
+      description:
+        - Analysed various methods to efficiently manage and monitor devices in a network using MIB files and SNMP.
+        - Developed a Python tool to get data out of machines using SNMP without dealing with MIB files and OID directly.
+    - title: Research Intern
+      institution: Center for Data Science and Applied Machine Learning, PES University
+      year: Jun - Aug 2019
+      description:
+        - Developed a quick, end-to-end solution for Single Image and Video Dehazing by utilizing the RESIDE dataset.
+        - Proposed and built a Light and symmetric Convolutional Autoencoder (LCA-Net) to achieve 85% accuracy and reduce the dehazing time by half, compared to other state-of-the-art methods.
+        - Presented the project to judges and won the in-house Data Science hackathon.
+
+- title: Additional Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Teaching Assistant
+      institution: PES University
+      year: Jul - Dec 2021
+      description:
+        - Teaching Assistant for the course UE19CS322 - Big Data, under Prof K.V. Subramaniam, which had a course strength of 600+ students.
+        - Designed, set up, and managed the backend of the online portal that automated the evaluation and grading of assignments.
+        - Conducted hands-on sessions on various technologies like Apache Spark and Hadoop.
+        - Designed assignments and final projects for the course. Scheduled and conducted final project reviews.
+        - Held office hours for students and clarified questions on the university's private discussion forum.
+    - title: Asst. Event Organizer and Volunteer  
+      institution: Sankranti Seva Samiti Association
+      year: Jan '18 - Present
+      description:
+        - Helped in raising funds for different events and also volunteered for the logistics and management team.
+        - Successfully helped organize cultural and traditional events and competitions for 800+ children and adults, every year
+        - Helped to distribute basic necessities like food and blankets to the homeless and needy during the COVID-19 lockdown.
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - title: Deep Learning for Cyberthreats - Performance Analysis and Application of Malware Classification in Edge Computing
+          contents:
+            - IITCEE-2024 | <a href="https://ieeexplore.ieee.org/abstract/document/10467665">Paper</a>
+    - year: 2022
+      items:
+        - title: DeepTunes - Music Generation based on Facial Emotions using Deep Learning
+          contents:
+            - I2CT-2022 | <a href="https://ieeexplore.ieee.org/abstract/document/9825153">Paper</a>
+    - year: 2020
+      items:
+        - title: LCA-Net - Light Convolutional Autoencoder for Image Dehazing
+          contents:
+            - <a href="https://ieeexplore.ieee.org/abstract/document/9825153">Preprint</a>
+      
+- title: Skills
+  type: time_table
+  contents:
+    - title: Languages
+      items: C, C++, Java, Python, SQL, LaTeX, Javascript, HTML/CSS
+    - title: Big Data
+      items: Kafka, Spark, ELK, Hadoop, HDFS
+    - title: ML/AI
+      items: OpenCV, Pillow, Tensorflow, NLTK, pandas, NumPy, scikit-learn, matplotlib
+    - title: Cloud
+      items: AWS, MS Azure
+    - title: Tools/Technologies/Frameworks
+      items: Linux, Git, Shell, MongoDB, Docker, Kubernetes, NodeJS, Springboot, MS Office, Jenkins, Atlassian Suite, Graphana
+    - title: Soft Skills
+      items: Leadership, Teamwork, Communication, Problem-solving, Time management, Adaptability, Creativity
+    
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - title: 3rd place out of 30+ teams in the OpenAI hackathon at Vymo
+          contents:
+            - Created a tool using langchain to create a chatbot capable of monitoring services and taking necessary actions(restart/redeploy/summarise service error reasons) when prompted by the user.
+    - year: 2022
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - 6x Prof. MRD Scholarship Awardee for being in the top 20% in the department, PES University
+    - year: 2018
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Ranked 2nd in India, in the National Cyber Olympiad (Ranked 7 internationally). Received a scholarhip for the same
+        - Ranked 18th in India, in the National Science Olympiad (Rnaked 537 internationally)
+        - Prathiba Puraskar Scholarship awardee for securing 95%+ in high and senior secondary school
+    - year: 2010
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - 3x National and 2x Regional Abacus Gold Medal Awardee - Brainobrain Abacus
