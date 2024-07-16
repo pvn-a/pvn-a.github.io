@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSCS @ University of Colorado at Boulder
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Boulder, CO 80309 USA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey guys, I am a student pursuing my `Master of Science in Computer Science degree from The University of Colorado at Boulder`.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interest lies in working with data and building robust and optimized backend systems. I am also interested in ML/AI - especially Computer Vision.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I previously worked as a `Member of Technical Staff (Backend Engineer)` at [Vymo](https://vymo.com/) where I designed, built, and scaled data-intensive, distributed services. Since I owned these mission-critical services end-to-end I have executed all parts of an SDLC. I scaled some features by 25x, reduced infra costs by 18%, brought down error rates by manifold, and improved the performance of the service by 70% through a plethora of new projects and optimizations. I have also worked as a `Research and Development intern` at [Samsung](https://research.samsung.com/sri-b?cid=in_pd_ppc_google_im-all-all-all-dtc_sales_samsung-allproducts-all-2023_eshop-text-dsa_01jan2023-na_1ur-501336l-2024-eshop-bau-dsa-cpc_pfm--20857865252------x--&gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcre4Pilo5mNGNTtpO7qP52qFN6uQPddzMO2xaMbkxpFcitDzCaDD_ooaAoHjEALw_wcB) with the on-device AI team, where I increased the accuracy of their Screenshot analysis computer vision models by 30% using data-centric AI approaches and built a data pipeline to streamline their data ETL processes.
+
+During my undergraduate studies, I was advised by [Dr. Srinivas Katharguppe](https://www.linkedin.com/in/srinivas-katharguppe-phd-a192522/) in developing a deep learning solution to generate real-time music using human facial emotions. I worked as a `Research assistant/intern` at the `Center for Data Science & Machine Learning` under [Dr. Shylaja S S](https://www.linkedin.com/in/dr-shylaja-s-s-49b4091b/) to develop real-time image/video dehazing solutions. I also worked at the `Center for Cloud Computing & Big Data` under [Dr. Phalachandra HL](https://www.linkedin.com/in/phalachandra-hl-0408066/), where I developed better methods of monitoring devices in a network, using SNMP directly.
