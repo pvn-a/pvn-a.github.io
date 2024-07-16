@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduate student pursuing my `Master of Science in Computer Science` degree from the `University of Colorado at Boulder `
+Started pursuing my `Master of Science in Computer Science` degree from the `University of Colorado at Boulder `

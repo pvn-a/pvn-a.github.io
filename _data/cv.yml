@@ -11,12 +11,12 @@
   contents:
     - title: Master of Science in Computer Science
       institution: University of Colorado at Boulder
-      year: 2024-2026
+      year: Aug '24 - May '26
     - title: Bachelor of Technology in Computer Science Engineering
       institution: PES University, Bangalore, India
-      year: 2018-2022
+      year: Aug '18 - May `22
       description:
-        - Specilization in Machine Intelligence and Data Science
+        - Specialization in Machine Intelligence and Data Science
         - Research Intern/Assistant at the Center for Data Science & Machine Learning and Center for Cloud Computing & Big Data
         - 6x M.R.D Merit scholarship awardee for staying in the top 20% of the graduating class
 
@@ -30,7 +30,7 @@
       description:
         - Implemented the Data Dissemination Platform (DDP) to control data in-out flows and delivered numerous projects that reduced error rates by 89% compared to previous methods, which helped secure multi-million dollar clients.
         - Designed, built, and scaled the critical data exporter service to efficiently help 150k+ bancassurance managers download huge volumes of data from the web directly.
-        - Increased the data ingestor’s functionality manyfold by revamping the service and implementing several new features along with code, query, and resource optimizations.
+        - Increased the data ingestor’s functionality manifold by revamping the service and implementing several new features along with code, query, and resource optimizations.
         - Solely upgraded Springboot, Gradle, Mongo, and Kafka libraries for all backed Java services.
         - Single-handedly resolved 50+ security vulnerabilities in backed services.
         - Discharged on-call duties for 2+ years and reduced turnaround resolution time for customer issues greatly by 82.5%.
@@ -40,8 +40,8 @@
       description:
         - Implemented a centralized email service in Java that streamlined management and reduced maintenance costs.
         - Designed and implemented API timeouts for the data ingestion service in NodeJS which boosted throughput by 64%.
-        - Productized querying logic for clients and introduced new Elasticsearch query utilities across two microservices..
-        - Introduced alerting and monitoring mechanisms in Sensu, Grafana and New Relic for the DDP services.
+        - Productized querying logic for clients and introduced new Elasticsearch query utilities across two microservices.
+        - Introduced alerting and monitoring mechanisms in Sensu, Grafana, and New Relic for the DDP services.
 
 
 - title: Research Experience
@@ -53,7 +53,7 @@
       description:
         - Spearheaded the on-device AI team’s data engineering division in researching data-centric AI approaches that improved text, icon, and image detection accuracy in mobile screenshots by 30%
         - Built a Python tool to generate synthetic data that further improved Korean text detection in screenshots by multifold.
-        - Streamlined tasks like data collection, preprocessing, data segmentation and warehousing by building a distributed application using Python and shell scripts, pillow, OpenCV, and Tensorflow.
+        - Streamlined tasks like data collection, preprocessing, data segmentation, and warehousing by building a distributed application using Python and shell scripts, pillow, OpenCV, and Tensorflow.
     - title: Applied Research Intern
       institution: Center for Cloud Computing and Big Data, PES University
       year: May - Jun 2020
@@ -75,7 +75,7 @@
       institution: PES University
       year: Jul - Dec 2021
       description:
-        - Teaching Assistant for the course UE19CS322 - Big Data, under Prof K.V. Subramaniam, which had a course strength of 600+ students.
+        - Teaching Assistant for the course CS322 - Big Data, under Dr. K.V. Subramaniam and Dr. Prafullata K Auradkar, which had a course strength of 600+ students.
         - Designed, set up, and managed the backend of the online portal that automated the evaluation and grading of assignments.
         - Conducted hands-on sessions on various technologies like Apache Spark and Hadoop.
         - Designed assignments and final projects for the course. Scheduled and conducted final project reviews.
@@ -131,13 +131,13 @@
       items:
         - title: 3rd place out of 30+ teams in the OpenAI hackathon at Vymo
           contents:
-            - Created a tool using langchain to create a chatbot capable of monitoring services and taking necessary actions(restart/redeploy/summarise service error reasons) when prompted by the user.
+            - Created a tool using Langchain to create a chatbot capable of monitoring services and taking necessary actions(restart/redeploy/summarise service error reasons) when prompted by the user.
     - year: 2022
       items:
         - 6x Prof. MRD Scholarship Awardee for being in the top 20% in the department, PES University
     - year: 2018
       items:
-        - Ranked 2nd in India, in the National Cyber Olympiad (Ranked 7 internationally). Received a scholarhip for the same
+        - Ranked 2nd in India, in the National Cyber Olympiad (Ranked 7 internationally). Received a scholarship for the same
         - Ranked 18th in India, in the National Science Olympiad (Rnaked 537 internationally)
         - Prathiba Puraskar Scholarship awardee for securing 95%+ in high and senior secondary school
     - year: 2010
