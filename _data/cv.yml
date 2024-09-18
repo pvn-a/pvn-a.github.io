@@ -54,12 +54,14 @@
         - Spearheaded the on-device AI team’s data engineering division in researching data-centric AI approaches that improved text, icon, and image detection accuracy in mobile screenshots by 30%
         - Built a Python tool to generate synthetic data that further improved Korean text detection in screenshots by multifold.
         - Streamlined tasks like data collection, preprocessing, data segmentation, and warehousing by building a distributed application using Python and shell scripts, pillow, OpenCV, and Tensorflow.
-    - title: Applied Research Intern
+    - title: Research Intern
       institution: Center for Cloud Computing and Big Data, PES University
       year: May - Jun 2020
       description:
         - Analysed various methods to efficiently manage and monitor devices in a network using MIB files and SNMP.
         - Developed a Python tool to get data out of machines using SNMP without dealing with MIB files and OID directly.
+        - Built a network monitoring Python tool, greatly reducing incident response time across 80+ devices using SNMP and Prometheus.
+        - Implemented alerting and performance tracking using Grafana, improving network uptime by 25% and streamlining issue resolution.
     - title: Research Intern
       institution: Center for Data Science and Applied Machine Learning, PES University
       year: Jun - Aug 2019
