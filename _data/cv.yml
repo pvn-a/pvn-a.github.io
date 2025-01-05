@@ -12,10 +12,15 @@
     - title: Master of Science in Computer Science
       institution: University of Colorado at Boulder
       year: Aug '24 - May '26
+      description:
+        - GPA - 4.0/4.0
+        - Working as a Graduate Research Assistant in the Earth Lab
+        - Relevant Coursework - Advanced Operating Systems, Datacenter Scale Computing
     - title: Bachelor of Technology in Computer Science Engineering
       institution: PES University, Bangalore, India
       year: Aug '18 - May `22
       description:
+        - GPA - 3.94/4.0
         - Specialization in Machine Intelligence and Data Science
         - Research Intern/Assistant at the Center for Data Science & Machine Learning and Center for Cloud Computing & Big Data
         - 6x M.R.D Merit scholarship awardee for staying in the top 20% of the graduating class
@@ -28,26 +33,35 @@
       institution: Vymo
       year: Jul '22 - Jul '24
       description:
-        - Implemented the Data Dissemination Platform (DDP) to control data in-out flows and delivered numerous projects that reduced error rates by 89% compared to previous methods, which helped secure multi-million dollar clients.
-        - Designed, built, and scaled the critical data exporter service to efficiently help 150k+ bancassurance managers download huge volumes of data from the web directly.
-        - Increased the data ingestor’s functionality manifold by revamping the service and implementing several new features along with code, query, and resource optimizations.
-        - Solely upgraded Springboot, Gradle, Mongo, and Kafka libraries for all backed Java services.
-        - Single-handedly resolved 50+ security vulnerabilities in backed services.
-        - Discharged on-call duties for 2+ years and reduced turnaround resolution time for customer issues greatly by 82.5%.
+        - Implemented the Data Dissemination Platform (DDP) to control data in-out flows and delivered numerous projects that reduced error rates by 90% compared to previous methods, which helped secure multi-million dollar clients.
+        - Owned 3 distributed, backend services responsible for data ingestion and export, end-to-end, and was involved in all parts of an SDLC.
+        - Designed, built, and scaled the critical data exporter service to efficiently help 180k+ bancassurance managers download 21B+ records/month from the web directly.
+        - Implemented fault-tolerant Redis and Kafka-based async ingestion flows with time-based API routers, improving upload efficiency manifold.
+        - Solely upgraded Springboot, Gradle, Mongo, and Kafka libraries for all backed Java services and resolved 45+ security vulnerabilities in backed services.
+        - Contributed to setting up CI/CD pipelines for multiple services using Jenkins and AWS ECR, reducing overall deployment times by 55%.
+        - Led the team to save a few hundred thousand dollars by migrating DDP to Kubernetes, adding housekeeping code, and optimizing data caching and MongoDB queries which helped us to downscale our VM clusters and optimize resource utilization.
+        - Resolved 400+ issues as part of on-call duties. Reduced turnaround time for customer requests and resolution time for on-call problems by 80%.
+        - Conducted technical interviews, and code reviews and mentored several people with their problem statements.
     - title: Software Engineering Intern (Backend) 
       institution: Vymo
       year: Jan - Jun 2022
       description:
-        - Implemented a centralized email service in Java that streamlined management and reduced maintenance costs.
+        - Established a robust messaging library in both Java and Node.js, that is used across services to send 14k+ daily emails and texts.
         - Designed and implemented API timeouts for the data ingestion service in NodeJS which boosted throughput by 64%.
-        - Productized querying logic for clients and introduced new Elasticsearch query utilities across two microservices.
+        - Productized querying logic for clients and introduced new Elasticsearch query utilities used by 800+ internal flows.
         - Introduced alerting and monitoring mechanisms in Sensu, Grafana, and New Relic for the DDP services.
 
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Research and Development Intern
+    - title: Graduate Research Assistant
+      institution: Earth Lab, University of Colorado Boulder
+      year: Nov 24 - Present
+      description:
+        - Analyzed and predicted fires in Southern California using ensemble algorithms like XGBoost on Sentinel-2 and MODIS datasets.
+        - Decreased satellite image processing times by half through optimized data pipelines and parallel processing in Python.
+    - title: Machine Learning Intern
       institution: Samsung R&D Institute
       year: May - Jul 2021
       description:
@@ -119,9 +133,9 @@
     - title: ML/AI
       items: OpenCV, Pillow, Tensorflow, NLTK, pandas, NumPy, scikit-learn, matplotlib
     - title: Cloud
-      items: AWS, MS Azure
+      items: AWS, MS Azure, GCP
     - title: Tools/Technologies/Frameworks
-      items: Linux, Git, Shell, MongoDB, Docker, Kubernetes, NodeJS, Springboot, MS Office, Jenkins, Atlassian Suite, Graphana
+      items: Linux, Git, Shell, MongoDB, PostgreSQL, Elasticsearch, Redis, Docker, Kubernetes, NodeJS, React, Flask, Springboot, eBPF, Nginx, Ansible, MS Office, Jenkins, Atlassian Suite, Graphana, Prometheus, New Relic
     - title: Soft Skills
       items: Leadership, Teamwork, Communication, Problem-solving, Time management, Adaptability, Creativity
     
