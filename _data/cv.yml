@@ -29,6 +29,12 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Software Development Engineering Intern
+      institution: AWS
+      year: May - Aug 2025
+      description:
+        - Implemented an RDS ZeroETL blocking feature to address CDC and replication errors, greately reducing related support incidents.
+        - Cut ETL integration costs by 60% by building a distributed solution to pause and resume relational data streams to data warehouses.
     - title: Member of Technical Staff (Backend Engineer)
       institution: Vymo
       year: Jul '22 - Jul '24
