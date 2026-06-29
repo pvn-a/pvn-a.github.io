@@ -1,0 +1,256 @@
+{
+  "site": {
+    "firstName": "Pavan",
+    "lastName": "A",
+    "title": "Pavan A",
+    "subtitle": "MSCS @ University of Colorado at Boulder",
+    "email": "paap4068@colorado.edu",
+    "github": "pvn-a",
+    "linkedin": "pavan-a",
+    "scholar": "p284y90AAAAJ",
+    "contactNote": "Reach me by sending an email / connecting with me on LinkedIn. Please give me a day to respond :)"
+  },
+  "aboutMarkdown": "Hello, I am a student pursuing my `Master of Science in Computer Science degree from The University of Colorado at Boulder`.\n\nMy interest lies in working with data and building robust and optimized backend systems. I am also interested in ML/AI - especially Computer Vision.\n\nI currently work as a `Graduate Research Assistant` at [Earth Lab](https://earthlab.colorado.edu/) where I am exploring the use of Computer Science to solve Environmental Science problems. I was an SDE intern with the `AWS RDS ZeroETL` team building distributed solutions to pause and resume relational data stream while also reducing replication errors in their Palo Alto, CA office. I previously worked as a `Member of Technical Staff (Backend Engineer)` at [Vymo](https://vymo.com/) where I designed, built, and scaled data-intensive, distributed services. Since I owned these mission-critical services end-to-end I have executed all parts of an SDLC. I scaled some features by 25x, reduced infra costs by 18%, brought down error rates by manifold, and improved the performance of the service by 70% through a plethora of new projects and optimizations. I have also worked as a `Machine Learning Intern` at [Samsung](https://research.samsung.com/sri-b?cid=in_pd_ppc_google_im-all-all-all-dtc_sales_samsung-allproducts-all-2023_eshop-text-dsa_01jan2023-na_1ur-501336l-2024-eshop-bau-dsa-cpc_pfm--20857865252------x--&gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcre4Pilo5mNGNTtpO7qP52qFN6uQPddzMO2xaMbkxpFcitDzCaDD_ooaAoHjEALw_wcB) with the on-device AI team, where I increased the accuracy of their Screenshot analysis computer vision models by 30% using data-centric AI approaches and built a data pipeline to streamline their data ETL processes.",
+  "general": [
+    {
+      "name": "Full Name",
+      "value": "Pavan A"
+    },
+    {
+      "name": "Languages",
+      "value": "English, Hindi, Kannada"
+    }
+  ],
+  "education": [
+    {
+      "title": "Master of Science in Computer Science",
+      "institution": "University of Colorado at Boulder",
+      "year": "Aug '24 - May '26",
+      "description": [
+        "GPA - 4.0/4.0",
+        "Working as a Graduate Research Assistant in the Earth Lab",
+        "Relevant Coursework - Advanced Operating Systems, Datacenter Scale Computing"
+      ]
+    },
+    {
+      "title": "Bachelor of Technology in Computer Science Engineering",
+      "institution": "PES University, Bangalore, India",
+      "year": "Aug '18 - May `22",
+      "description": [
+        "GPA - 3.94/4.0",
+        "Specialization in Machine Intelligence and Data Science",
+        "Research Intern/Assistant at the Center for Data Science & Machine Learning and Center for Cloud Computing & Big Data",
+        "6x M.R.D Merit scholarship awardee for staying in the top 20% of the graduating class"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "title": "Software Development Engineering Intern",
+      "institution": "AWS",
+      "year": "May - Aug 2025",
+      "description": [
+        "Implemented an RDS ZeroETL blocking feature to address CDC and replication errors, greately reducing related support incidents.",
+        "Cut ETL integration costs by 60% by building a distributed solution to pause and resume relational data streams to data warehouses."
+      ]
+    },
+    {
+      "title": "Member of Technical Staff (Backend Engineer)",
+      "institution": "Vymo",
+      "year": "Jul '22 - Jul '24",
+      "description": [
+        "Implemented the Data Dissemination Platform (DDP) to control data in-out flows and delivered numerous projects that reduced error rates by 90% compared to previous methods, which helped secure multi-million dollar clients.",
+        "Owned 3 distributed, backend services responsible for data ingestion and export, end-to-end, and was involved in all parts of an SDLC.",
+        "Designed, built, and scaled the critical data exporter service to efficiently help 180k+ bancassurance managers download 21B+ records/month from the web directly.",
+        "Implemented fault-tolerant Redis and Kafka-based async ingestion flows with time-based API routers, improving upload efficiency manifold.",
+        "Solely upgraded Springboot, Gradle, Mongo, and Kafka libraries for all backed Java services and resolved 45+ security vulnerabilities in backed services.",
+        "Contributed to setting up CI/CD pipelines for multiple services using Jenkins and AWS ECR, reducing overall deployment times by 55%.",
+        "Led the team to save a few hundred thousand dollars by migrating DDP to Kubernetes, adding housekeeping code, and optimizing data caching and MongoDB queries which helped us to downscale our VM clusters and optimize resource utilization.",
+        "Resolved 400+ issues as part of on-call duties. Reduced turnaround time for customer requests and resolution time for on-call problems by 80%.",
+        "Conducted technical interviews, and code reviews and mentored several people with their problem statements."
+      ]
+    },
+    {
+      "title": "Software Engineering Intern (Backend)",
+      "institution": "Vymo",
+      "year": "Jan - Jun 2022",
+      "description": [
+        "Established a robust messaging library in both Java and Node.js, that is used across services to send 14k+ daily emails and texts.",
+        "Designed and implemented API timeouts for the data ingestion service in NodeJS which boosted throughput by 64%.",
+        "Productized querying logic for clients and introduced new Elasticsearch query utilities used by 800+ internal flows.",
+        "Introduced alerting and monitoring mechanisms in Sensu, Grafana, and New Relic for the DDP services."
+      ]
+    }
+  ],
+  "research": [
+    {
+      "title": "Graduate Research Assistant",
+      "institution": "Earth Lab, University of Colorado Boulder",
+      "year": "Nov 24 - Present",
+      "description": [
+        "Analyzed and predicted fires in Southern California using ensemble algorithms like XGBoost on Sentinel-2 and MODIS datasets.",
+        "Decreased satellite image processing times by half through optimized data pipelines and parallel processing in Python."
+      ]
+    },
+    {
+      "title": "Machine Learning Intern",
+      "institution": "Samsung R&D Institute",
+      "year": "May - Jul 2021",
+      "description": [
+        "Spearheaded the on-device AI team’s data engineering division in researching data-centric AI approaches that improved text, icon, and image detection accuracy in mobile screenshots by 30%",
+        "Built a Python tool to generate synthetic data that further improved Korean text detection in screenshots by multifold.",
+        "Streamlined tasks like data collection, preprocessing, data segmentation, and warehousing by building a distributed application using Python and shell scripts, pillow, OpenCV, and Tensorflow."
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "institution": "Center for Cloud Computing and Big Data, PES University",
+      "year": "May - Jun 2020",
+      "description": [
+        "Analysed various methods to efficiently manage and monitor devices in a network using MIB files and SNMP.",
+        "Developed a Python tool to get data out of machines using SNMP without dealing with MIB files and OID directly.",
+        "Built a network monitoring Python tool, greatly reducing incident response time across 80+ devices using SNMP and Prometheus.",
+        "Implemented alerting and performance tracking using Grafana, improving network uptime by 25% and streamlining issue resolution."
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "institution": "Center for Data Science and Applied Machine Learning, PES University",
+      "year": "Jun - Aug 2019",
+      "description": [
+        "Developed a quick, end-to-end solution for Single Image and Video Dehazing by utilizing the RESIDE dataset.",
+        "Proposed and built a Light and symmetric Convolutional Autoencoder (LCA-Net) to achieve 85% accuracy and reduce the dehazing time by half, compared to other state-of-the-art methods.",
+        "Presented the project to judges and won the in-house Data Science hackathon."
+      ]
+    }
+  ],
+  "additional": [
+    {
+      "title": "Undergraduate Teaching Assistant",
+      "institution": "PES University",
+      "year": "Jul - Dec 2021",
+      "description": [
+        "Teaching Assistant for the course CS322 - Big Data, under Dr. K.V. Subramaniam and Dr. Prafullata K Auradkar, which had a course strength of 600+ students.",
+        "Designed, set up, and managed the backend of the online portal that automated the evaluation and grading of assignments.",
+        "Conducted hands-on sessions on various technologies like Apache Spark and Hadoop.",
+        "Designed assignments and final projects for the course. Scheduled and conducted final project reviews.",
+        "Held office hours for students and clarified questions on the university's private discussion forum."
+      ]
+    },
+    {
+      "title": "Asst. Event Organizer and Volunteer",
+      "institution": "Sankranti Seva Samiti Association",
+      "year": "Jan '18 - Present",
+      "description": [
+        "Helped in raising funds for different events and also volunteered for the logistics and management team.",
+        "Successfully helped organize cultural and traditional events and competitions for 800+ children and adults, every year",
+        "Helped to distribute basic necessities like food and blankets to the homeless and needy during the COVID-19 lockdown."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "year": 2024,
+      "items": [
+        {
+          "title": "Deep Learning for Cyberthreats - Performance Analysis and Application of Malware Classification in Edge Computing",
+          "contents": [
+            "IITCEE-2024 | <a href=\"https://ieeexplore.ieee.org/abstract/document/10467665\">Paper</a>"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "items": [
+        {
+          "title": "DeepTunes - Music Generation based on Facial Emotions using Deep Learning",
+          "contents": [
+            "I2CT-2022 | <a href=\"https://ieeexplore.ieee.org/abstract/document/9825153\">Paper</a>"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "items": [
+        {
+          "title": "LCA-Net - Light Convolutional Autoencoder for Image Dehazing",
+          "contents": [
+            "<a href=\"https://ieeexplore.ieee.org/abstract/document/9825153\">Preprint</a>"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Languages",
+      "items": "C, C++, Java, Python, SQL, LaTeX, Javascript, HTML/CSS"
+    },
+    {
+      "title": "Big Data",
+      "items": "Kafka, Spark, ELK, Hadoop, HDFS"
+    },
+    {
+      "title": "ML/AI",
+      "items": "OpenCV, Pillow, Tensorflow, NLTK, pandas, NumPy, scikit-learn, matplotlib"
+    },
+    {
+      "title": "Cloud",
+      "items": "AWS, MS Azure, GCP"
+    },
+    {
+      "title": "Tools/Technologies/Frameworks",
+      "items": "Linux, Git, Shell, MongoDB, PostgreSQL, Elasticsearch, Redis, Docker, Kubernetes, NodeJS, React, Flask, Springboot, eBPF, Nginx, Ansible, MS Office, Jenkins, Atlassian Suite, Graphana, Prometheus, New Relic"
+    },
+    {
+      "title": "Soft Skills",
+      "items": "Leadership, Teamwork, Communication, Problem-solving, Time management, Adaptability, Creativity"
+    }
+  ],
+  "honors": [
+    {
+      "year": 2023,
+      "items": [
+        {
+          "title": "3rd place out of 30+ teams in the OpenAI hackathon at Vymo",
+          "contents": [
+            "Created a tool using Langchain to create a chatbot capable of monitoring services and taking necessary actions(restart/redeploy/summarise service error reasons) when prompted by the user."
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "items": [
+        "6x Prof. MRD Scholarship Awardee for being in the top 20% in the department, PES University"
+      ]
+    },
+    {
+      "year": 2018,
+      "items": [
+        "Ranked 2nd in India, in the National Cyber Olympiad (Ranked 7 internationally). Received a scholarship for the same",
+        "Ranked 18th in India, in the National Science Olympiad (Rnaked 537 internationally)",
+        "Prathiba Puraskar Scholarship awardee for securing 95%+ in high and senior secondary school"
+      ]
+    },
+    {
+      "year": 2010,
+      "items": [
+        "3x National and 2x Regional Abacus Gold Medal Awardee - Brainobrain Abacus"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Stock Trading Simulator",
+      "description": "Built using Vanilla JS, Bootstrap, and HTML to simulate stock trading",
+      "category": "fun",
+      "importance": 2,
+      "image": "assets/img/project_stocksim.png",
+      "slug": "project",
+      "body": "This is a simple stock-trading-simulator.\nBuilt using HTML, CSS, Bootstrap, VanillaJS\n\nLive website - <a href=\"https://pvn-a.github.io/stock-simulator/\">LIVE</a>  \nCodebase - <a href=\"https://github.com/pvn-a/stock-simulator\">CODE</a>\n\n<div class=\"row\">\n    <div class=\"col-sm mt-3 mt-md-0\">\n        {% include figure.liquid loading=\"eager\" path=\"assets/img/project_stocksim.png\" title=\"Stock Sim background\" class=\"img-fluid rounded z-depth-1\" %}\n    </div>\n</div>\n<div class=\"caption\">\n    The website's view\n</div>\n\n{% raw %}\n\n```txt\nFeel free to try out and give your comments!\n```\n\n{% endraw %}"
+    }
+  ]
+}
