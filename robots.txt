@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://pvn-a.github.io/sitemap.xml
